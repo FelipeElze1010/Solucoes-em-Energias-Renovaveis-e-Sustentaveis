@@ -60,18 +60,11 @@ O motor de IA analisa cada subsistema e gera **ações corretivas recomendadas**
 ---
 
 ## 🚀 Como executar
-
-### Google Colab (recomendado para apresentação)
-
-1. Abra o arquivo `spaceguard_colab.ipynb` no [Google Colab](https://colab.research.google.com/)
-2. Execute as células na ordem (Célula 1 → Célula 8)
-3. O dashboard será gerado automaticamente a cada 10 ciclos
-
 ### VSCode / PyCharm
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/spaceguard-fiap-2026.git
+git clone [https://github.com/SEU_USUARIO/spaceguard-fiap-2026.git](https://github.com/FelipeElze1010/Solucoes-em-Energias-Renovaveis-e-Sustentaveis)
 cd spaceguard-fiap-2026
 
 # Rodar em loop contínuo (terminal com cores)
@@ -147,13 +140,13 @@ O simulador implementa física orbital simplificada baseada em missões reais (I
 
 ## 📊 Capturas de tela
 
-> *(Adicionar screenshots do dashboard aqui após executar)*
+<img width="754" height="570" alt="image" src="https://github.com/user-attachments/assets/15b3fce6-c8e1-45c3-926f-3236fbabc5cd" />
 
----
+<img width="1223" height="816" alt="image" src="https://github.com/user-attachments/assets/35523ede-2699-41de-ba49-3491f28a8f09" />
 
-## 📄 Licença
+<img width="1901" height="966" alt="image" src="https://github.com/user-attachments/assets/b4ed24a4-7842-49f3-9d98-e5367300ac37" />
 
-Projeto acadêmico desenvolvido para fins educacionais — FIAP Global Solution 2026.
+
 
 ---
 
